@@ -85,8 +85,8 @@ Converted["_Notifications"].Name = "Notifications"
 Converted["_Notifications"].Parent = Converted["_focat's notification lib"]
 
 Converted["_Template"].AnchorPoint = Vector2.new(0.5, 0.5)
-Converted["_Template"].BackgroundColor3 = Color3.fromRGB(43.00000123679638, 43.00000123679638, 43.00000123679638)
-Converted["_Template"].BackgroundTransparency = 0.20000000298023224
+Converted["_Template"].BackgroundColor3 = Color3.fromRGB(0.00000123679638, 0.00000123679638, 0.00000123679638)
+Converted["_Template"].BackgroundTransparency = 0.6
 Converted["_Template"].BorderSizePixel = 0
 Converted["_Template"].Position = UDim2.new(0.5, 0, 0.915000021, 0)
 Converted["_Template"].Size = UDim2.new(0, 295, 0, 91)
